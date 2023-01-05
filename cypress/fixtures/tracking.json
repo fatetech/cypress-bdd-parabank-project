@@ -1,0 +1,14 @@
+{
+    "FindTransaction":"[href='/parabank/findtrans.htm']",
+    "Verification":"Find Transactions",
+    "PageTitle":".title",
+    "AccountNumber":".title",
+    "TrackingMethod":"[ng-model='criteria.onDate']",
+    "Date":"12-27-2022",
+    "TrackBtn":":nth-child(9) > .button",
+    "TransactionLink":"#transactionTable > tbody > tr > td:nth-child(2) > a",
+    "DetailsNote":"Transaction Results",
+    "ConfirmTracking":"parabank/findtrans.htm"
+
+
+}

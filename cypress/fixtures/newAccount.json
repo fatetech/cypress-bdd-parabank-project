@@ -1,0 +1,11 @@
+{
+    "CreatNewAccount":"[href='/parabank/openaccount.htm']",
+    "VerrificationNote":"Open New Account",
+    "UrlVerification":"https://parabank.parasoft.com/parabank/openaccount.htm",
+    "AccountType":"[ng-model='types.selectedOption']",
+    "AccountOption":"SAVINGS",
+    "NewAccountNum":"[ng-model='accounts.selectedOption']",
+    "CreatAccountBtn": "[value='Open New Account']",
+    "VerifyNewAccount": "#newAccountId"
+
+}

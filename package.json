@@ -1,0 +1,24 @@
+{
+  "name": "cypress-bdd-parabank-project",
+  "version": "1.0.0",
+  "description": "automatting a bank app",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --e2e --browser chrome"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber"
+  ],
+  "author": "IamFate",
+  "license": "ISC",
+  "devDependencies": {
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress-fill-command": "^1.0.2",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "esbuild": "^0.16.10"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.0.0"
+  }
+}

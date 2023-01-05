@@ -1,0 +1,10 @@
+{
+    "GetLoan":"[href='/parabank/requestloan.htm']",
+    "LoanPageVerification":".title",
+    "VerNote": "Apply for a Loan",
+    "LoanAmount":"[ng-model='loanRequest.amount']",
+    "DownPayment":"[ng-model='loanRequest.downPayment']",
+    "Account":"[ng-model='loanRequest.fromAccountId']",
+    "ApplyBtn":"[value='Apply Now']",
+    "SuccessfulLoanNote":"Congratulations, your loan has been approved."
+}
